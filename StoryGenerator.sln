@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StoryGenerator", "StoryGenerator\StoryGenerator.vcxproj", "{020B66B8-3F04-427B-8728-3C03ADD2DCE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{020B66B8-3F04-427B-8728-3C03ADD2DCE5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{020B66B8-3F04-427B-8728-3C03ADD2DCE5}.Debug|Win32.Build.0 = Debug|Win32
+		{020B66B8-3F04-427B-8728-3C03ADD2DCE5}.Release|Win32.ActiveCfg = Release|Win32
+		{020B66B8-3F04-427B-8728-3C03ADD2DCE5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
